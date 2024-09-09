@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jillrylo
-- 👀 I’m interested in ...
+- 👀 I’m interested in video games
 - 🌱 I’m currently learning game design!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me jillycurylee@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fav game is sims4
