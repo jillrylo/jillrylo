@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jillrylo
-- 👀 I’m interested in video games
+- 👀 I’m interested in game development, specifically level design
 - 🌱 I’m currently learning game design!
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me jillycurylee@gmail.com
