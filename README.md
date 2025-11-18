@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me jillycurylee@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: fav game is sims4
+- ⚡ Fun fact: fav game is Stardew Valley
 
 <!---
 jillrylo/jillrylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
