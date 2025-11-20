@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development, specifically level design
 - 🌱 I’m currently learning game design!
 - 💞️ I’m looking to collaborate on game projects
-- 📫 How to reach me jillycurylee@gmail.com
+- 📫 How to reach me officialjcurylo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: fav game is Stardew Valley
 
