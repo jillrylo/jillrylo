@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me officialjcurylo@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: fav game is Cat Quests
+- ⚡ Fun fact: fav games are Stray, Cat Quest, and Magic: The Gathering
 
 <!---
 jillrylo/jillrylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
