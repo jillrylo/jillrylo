@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jillrylo
+👋 Hi, I’m @jillrylo:
 ![Working Home Office GIF by Caats](https://github.com/user-attachments/assets/21a1d52c-6a94-4798-a644-6b990320fec8)
 
 - 👀 I’m interested in game development, specifically level design
