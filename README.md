@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jillrylo 
+- 👋 Hi, I’m @jillrylo
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHEzajR5YnZmaTNrempmb2JtYWpuY2o3MHNpbGRrbmh0bnVudDh4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif
 - 👀 I’m interested in game development, specifically level design
 - 🌱 I’m currently learning game design and physics!
 - 💞️ I’m looking to collaborate on game projects
