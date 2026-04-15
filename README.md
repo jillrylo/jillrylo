@@ -1,7 +1,7 @@
 ![Working Home Office GIF by Caats](https://github.com/user-attachments/assets/21a1d52c-6a94-4798-a644-6b990320fec8)
 
 👋 Hi, I’m @jillrylo:
-- 👀 I’m interested in game development, specifically level design
+- 👀 I’m interested in game development, specifically level/environmental design
 - 🌱 I’m currently learning game design and physics at High Point University, NC!
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me officialjcurylo@gmail.com
