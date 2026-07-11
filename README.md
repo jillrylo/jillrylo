@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me officialjcurylo@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like manga, meditating, and cats
+- ⚡ Fun fact: I like manga, meditating, and mini-games
 
 <!---
 jillrylo/jillrylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
